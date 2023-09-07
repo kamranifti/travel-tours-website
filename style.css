@@ -1,0 +1,181 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=Libre+Baskerville&family=Montserrat:wght@300&family=Nunito:wght@300&family=Roboto+Slab:wght@300&display=swap');
+
+body{
+  font-family:DM Serif Display ;
+
+}
+
+.main-text{
+  background-image: url('IMG-20230823-WA0068.jpg');
+  opacity: .7;
+  font-weight:500;
+}
+.comp{
+    font-size: 100px;
+  text-shadow: 1px 1.2px 1.5px black;
+}
+.btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.con {
+    padding-bottom: 135px;
+    margin-top: 60px;
+}
+.brand{
+    font-size: 23px;
+}
+.btnn{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.btn{
+  width: 170px;
+  height: 55px;
+  border: solid 2px;
+}
+.img1{
+  background-image: url('WhatsApp Image 2023-08-23 at 16.26.08.jpg');
+  background-size: cover;
+  height: 650px;
+}
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+.wat{
+  color: rgb(59, 154, 255);
+}
+.con2{
+
+ margin-top: 170px;
+}
+.main2{
+  margin-bottom: 140px;
+}
+.main3{
+  background-color: rgb(244, 241, 244);
+}
+.exp{
+  padding: 0 19%;
+}
+.row{
+  width: 100%;
+}
+.icon{
+  font-size: 50px;
+  color: rgb(49, 109, 137);
+}
+.dif{
+  padding: 0 10%;
+  opacity: .7;
+}
+.int{
+  font-size: 70px;
+  font-weight: 600;
+}
+.intp{
+  padding: 20px 20%;
+  opacity: .7;
+}
+.slide {
+  width: 70vw;
+}
+.main5{
+  background-color: rgb(6, 189, 189);
+}
+.card{
+  margin-bottom: 150px;
+}
+.cus1{
+  width: 75px;
+  border-radius: 50%;
+}
+.cos{
+  margin-bottom: 130px;
+}
+.des{
+  padding: 0 11%;
+}
+.main7{
+  background-color: rgb(224, 226, 228);
+}
+.top{
+  padding-top: 120px;
+  font-size: 50px;
+}
+.bg{
+  background-color:rgb(49, 109, 137) ;
+}
+.nat{
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.box{
+  box-shadow: 1px 1px 8px rgb(84, 84, 84);
+}
+.rat{
+  display: flex;
+  justify-content: space-between;
+  padding-top: 20px;
+}
+.sta{
+  color: rgb(0, 179, 255);
+  font-size: 14px;
+}
+.mu{
+  font-size: 16px;
+}
+footer{
+  background-color: rgb(28, 27, 27);
+}
+.boxx{
+  box-shadow: 1px 1px 20px rgb(84, 84, 84);
+}
+.foott{
+  padding-top: 100px;
+}
+a{
+  text-decoration: none;
+  color: beige;
+}
+.foot-icons{
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 0 39%;
+}
+input{
+  border: none;
+  background-color: rgb(28, 27, 27);
+}
+
+@media screen and (max-width:600px) {
+.con2{
+  margin-top: 20px;
+}
+.comp{
+  font-size: 65px;
+}
+.int{
+  font-size: 60px;
+}
+.intp{
+  padding: 20px 5%;
+}
+.card{
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+.des{
+  padding: 0 5%;
+}
+.nat{
+  padding-bottom: 60px;
+}
+.foot-icons{
+  padding: 0 20%;
+}
+}
